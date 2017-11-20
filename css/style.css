@@ -214,16 +214,17 @@ pre {
   width: 100%;
 }
 /*====================================================
-    header 
+    header
 ====================================================*/
 .main-header {
   position: relative;
   text-align: center;
   background: #fff;
   line-height: 0;
-  height: 180px;
+  height: 250px;
   width: 100%;
-  background: #464853 url(http://7xpw2b.com1.z0.glb.clouddn.com/hexo-sinppet/img/banner.jpg);
+  /*background: #464853 url(http://7xpw2b.com1.z0.glb.clouddn.com/hexo-sinppet/img/banner.jpg);*/
+  background: #03354c url(../img/cover.jpg) no-repeat center;
 }
 .main-header .banneriframe {
   width: 100%;
